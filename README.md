@@ -1,7 +1,7 @@
 [![MasterHead](https://ce.arizona.edu/sites/default/files/Testimonial%20Banner-Jessica-Resized.jpg)](https://vramos0.io)
 <h1 align="center">Hi 👋, I'm Victoria Ramos</h1>
 <h3 align="center">A passionate Computer Science & Engineering student from California</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://c.tenor.com/huWvpTgSDv4AAAAC/website-development-website.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **Software Development & Object Oriented Programming in C++**
 
